@@ -6,3 +6,6 @@ Introduction to Artificial Intelligence: https://courses.cs.washington.edu/cours
 
 Optimization problems:
 Simulated anealing: https://nathanrooy.github.io/posts/2020-05-14/simulated-annealing-with-python/
+
+https://www.csie.ntu.edu.tw/~cyy/courses/vfx/21spring/lectures/
+
