@@ -5,9 +5,9 @@
 #### Syllabus
 
 * Basic algorithmic methods:
-  * Greedy Algorithms
-  * Divide and Conquer
-  * Dynamic programming
+  * Divide and Conquer: [PPTX](אלגוריתמים 1- הפרד ומשול.pptx)
+  * Greedy Algorithms: [PPTX](אלגוריתמים 1- אלגוריתמים חמדניים.pptx)
+  * Dynamic programming: [PPTX](אלגוריתמים 1- תכנות דינמי.pptx)
 
 * Graphs algorithms:
   * Minimal spanning tree
