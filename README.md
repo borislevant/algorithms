@@ -10,10 +10,11 @@
   * Dynamic programming: [PPTX](algorithms1_dynamic_programing.pptx)
 
 * Graphs algorithms:
-  * Minimal spanning tree
-  * Shortest paths from signle source
-  * Shortest paths between all the vertices
-  * Max-flow - Min-cut algorithm
+  * Graphs recap: [PPTX](algorithms1_graphs.pptx)
+  * Minimal spanning tree: [PPTX](algorithms1_mst.pptx)
+  * Shortest paths from signle source: [PPTX](algorithms1_shortest_path_single_source.pptx)
+  * Shortest paths between all the vertices: [PPTX](algorithms1_shortest_path_all_vertices.pptx)
+  * Max-flow - Min-cut algorithm: [PPTX](algorithms1_graphs.pptx)
 
 * Polynoms and FFT
 
